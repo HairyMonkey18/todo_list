@@ -4,25 +4,28 @@
     background-color: rgb(0,200,255);
     font-size: 50px;
     font-family: sans-serif;
+    margin-bottom: 40px;
+    padding: 30px; 
 }
 
 ul {
     list-style-type: none;
     font-size: 20px;
+    margin-bottom: 30px;
 }
 
 .buttons {
     text-align: right;
+    
 }
 
-/*body { 
-    background-image: url(https://image.freepik.com/free-psd/abstract-background-design_1297-82.jpg); 
-}*/
 
 a {
     text-decoration: none;
 }
 
 a:hover {
-    font-size: 90px;
+    color: white;
+    background-color: #009933;
+    
 }
