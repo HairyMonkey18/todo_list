@@ -13,11 +13,10 @@
 }
 
 .buttons {
-    display: inline;
-    box-shadow: 10px 10px 10px #888888;
-    padding-right: 20px;
-    padding-left: 20px;
-
+     display: inline;
+     margin-right: 10px;
+     margin-left: 10px;
+     box-shadow: 10px 10px 5px #888888;
 }
 
 a {
